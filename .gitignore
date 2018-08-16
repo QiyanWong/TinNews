@@ -52,6 +52,7 @@ local.properties
 .recommenders
 
 # IDEA
+.gradle/
 .idea
 *.iml
 *.ipr
@@ -61,3 +62,5 @@ out
 lib
 mvnw
 mvnw.cmd
+
+.DS_Store
